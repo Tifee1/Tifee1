@@ -24,6 +24,20 @@ const Tifee = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Send me a message to connect</em>
 
+
+  
+ ### :fire: My Stats : 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tifee1)](https://git.io/streak-stats)
+<img  
+    src="https://github-readme-stats.vercel.app/api?username=Tifee1&show_icons=true&theme=tokyonight"  
+ /> 
+  
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tifee1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+  
+ --- 
+
+
 ## Github Repositories Stats
 
 <a href="https://github.com/tifee1/">
