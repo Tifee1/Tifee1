@@ -20,7 +20,7 @@ const Tifee = {
 
 ## Resume
 
-[Resume](https://drive.google.com/file/d/1Xiy8VMLl23zhxMemk_G8LHgJFIC7bxS_/view?usp=share_link)
+[Resume](https://drive.google.com/file/d/1KhbBMDvRPtsCT2S7l35kY9Rtm3OMgiPz/view?usp=sharing)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Send me a message to connect</em>
 
