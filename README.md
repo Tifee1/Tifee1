@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=1000&color=FFFFFF&background=222222&vCenter=true&height=78&lines=Hi+there;I+am+a+Frontend+Developer;I+am+a+Full+Stack+Developer;I+am+a+System+Engineer;I+am+a+Graphics+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=1000&color=FFFFFF&background=222222&vCenter=true&height=78&lines=Hi+there;I+am+a+Frontend+Developer;I+am+a+Backend+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## Visitor Count
 
